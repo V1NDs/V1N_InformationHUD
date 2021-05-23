@@ -18,7 +18,7 @@
 </details>
 
 ### 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍
-> Dette script er en opdatering af mit gamle V1N_Infodisplay som lavede en masse fejl og skabte en del lag. Denne nye version har fået et nyt look og er optimeret en del.
+> 𝙳𝚎𝚝𝚝𝚎 𝚜𝚌𝚛𝚒𝚙𝚝 𝚎𝚛 𝚎𝚗 𝚘𝚙𝚍𝚊𝚝𝚎𝚛𝚒𝚗𝚐 𝚊𝚏 𝚖𝚒𝚝 𝚐𝚊𝚖𝚕𝚎 𝚅𝟷𝙽_𝙸𝚗𝚏𝚘𝚍𝚒𝚜𝚙𝚕𝚊𝚢 𝚜𝚘𝚖 𝚕𝚊𝚟𝚎𝚍𝚎 𝚎𝚗 𝚖𝚊𝚜𝚜𝚎 𝚏𝚎𝚓𝚕 𝚘𝚐 𝚜𝚔𝚊𝚋𝚝𝚎 𝚎𝚗 𝚍𝚎𝚕 𝚕𝚊𝚐. 𝙳𝚎𝚗𝚗𝚎 𝚗𝚢𝚎 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚑𝚊𝚛 𝚏å𝚎𝚝 𝚎𝚝 𝚗𝚢𝚝 𝚕𝚘𝚘𝚔 𝚘𝚐 𝚎𝚛 𝚘𝚙𝚝𝚒𝚖𝚎𝚛𝚎𝚝 𝚎𝚗 𝚍𝚎𝚕.
 
 ### 𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
