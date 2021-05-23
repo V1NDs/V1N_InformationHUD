@@ -11,7 +11,7 @@
       <a href="#𝐒𝐎𝐂𝐈𝐀𝐋𝐒">𝐌𝐢𝐧𝐞 𝐦𝐞𝐝𝐢𝐞𝐫</a>
       <ul>
         <li><a href="https://discord.gg/j6T9779uCd">𝐃𝐢𝐬𝐜𝐨𝐫𝐝</a></li>
-        <li><a href="https://www.youtube.com/channel/UCaBZGvYryg09IS-uaSHyfPw">𝐘𝐨𝐮𝐭𝐮𝐛𝐞</a></li>
+        <li><a href="https://www.youtube.com/channel/UCxoJ3jF7onq1TRkOnAZAF8w">𝐘𝐨𝐮𝐭𝐮𝐛𝐞</a></li>
       </ul>
     </li>
   </ol>
@@ -30,4 +30,4 @@
 <img src="https://imgur.com/4EnhI1X.png" alt="Config" width="480px" height="270px">
 
 ### 𝐌𝐄𝐃𝐈𝐄𝐑
-[<img src="https://cdn.vox-cdn.com/thumbor/VlgzMj5_REvgw7vItUeOy0KSYnY=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11946613/discord_logo_wordmark_2400.jpg" width="243px" height="127.575px">](https://discord.gg/ECUxET82SD) [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="243px" height="127.575px">](https://www.youtube.com/channel/UCaBZGvYryg09IS-uaSHyfPw)
+[<img src="https://cdn.vox-cdn.com/thumbor/VlgzMj5_REvgw7vItUeOy0KSYnY=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11946613/discord_logo_wordmark_2400.jpg" width="243px" height="127.575px">](https://discord.gg/ECUxET82SD) [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="243px" height="127.575px">](https://www.youtube.com/channel/UCxoJ3jF7onq1TRkOnAZAF8w)
