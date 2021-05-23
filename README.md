@@ -1,5 +1,8 @@
 # 𝐕𝟏𝐍_𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧𝐇𝐔𝐃
 
+### 𝐃𝐈𝐒𝐂𝐎𝐑𝐃
+> https://discord.gg/ECUxET82SD
+
 <details open="open">
   <summary>𝐈𝐧𝐝𝐡𝐨𝐥𝐝𝐬𝐟𝐨𝐫𝐭𝐞𝐠𝐧𝐞𝐥𝐬𝐞</summary>
   <ol>
