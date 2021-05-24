@@ -34,7 +34,6 @@ Citizen.CreateThread(function()
 	end
 end)
 
-
 RegisterNetEvent('esx:playerLoaded')
 AddEventHandler('esx:playerLoaded', function(xPlayer)
     PlayerData = xPlayer
