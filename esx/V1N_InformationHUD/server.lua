@@ -33,7 +33,7 @@ AddEventHandler('V1N_InformationHUD:updateHud', function()
 	local xPlayer = ESX.GetPlayerFromId(source)
 
 	if xPlayer ~= nil then
-		local money, bank, black_money = table.unpack(getAccounts({'money', 'bank', 'black_money'}, xPlayer))
+	    local money, bank, black_money = table.unpack(getAccounts({'money', 'bank', 'black_money'}, xPlayer))
 	    TriggerClientEvent('V1N_InformationHUD:updateHud_', source, {cash = money, bank = bank, black_money = black_money})
 	end
 end)
