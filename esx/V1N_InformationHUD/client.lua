@@ -58,7 +58,6 @@ Citizen.CreateThread(function()
             job = job
         })
     
-        print("Neger")
         Citizen.Wait(2500)
     end
 end)
