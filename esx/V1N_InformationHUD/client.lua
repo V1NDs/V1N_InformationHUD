@@ -19,6 +19,7 @@ Github: https://github.com/V1NDs
 
 ESX = nil
 local PlayerData = nil
+local open = cfg.start
 
 Citizen.CreateThread(function()
     while ESX == nil do	
@@ -69,8 +70,24 @@ end)
 --==Threads==--
 Citizen.CreateThread(function()
     while true do
-        TriggerServerEvent("V1N_InformationHUD:updateHud")
+        if open then
+            TriggerServerEvent("V1N_InformationHUD:updateHud")
+        end
         Citizen.Wait(2500)
+    end
+end)
+--===================================--
+
+--==Commands==--
+RegisterCommand(cfg.command, function(source, args, rawCommand)
+    if open then
+        open = not open
+        SendNUIMessage({
+            type = "close"
+        })
+    else
+        TriggerServerEvent("V1N_InformationHUD:updateHud")
+        open = not open
     end
 end)
 --===================================--
