@@ -44,6 +44,11 @@ $(document).ready(function() {
                 $('.bars-container > .dirtymoney-bar > h3').text(`${numberTranslate(data.dirty_money)} DKK`);
                 $('.bars-container > .identity-bar > h3').html(data.job);
             }
+            
+            if (data.type === 'close') {
+                display(false)
+                return
+            }
         })
     })
 
