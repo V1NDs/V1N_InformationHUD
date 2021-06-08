@@ -25,6 +25,10 @@ local vRPc = {}
 Tunnel.bindInterface(GetCurrentResourceName(), vRPc)
 --===================================--
 
+--==Variables==--
+local open = cfg.start
+--===================================--
+
 --==Functions==--
 vRPc.updateHud = function(data)
     SendNUIMessage({
@@ -41,8 +45,24 @@ end
 --==Threads==--
 Citizen.CreateThread(function()
     while true do
-        TriggerServerEvent("V1N_InformationHUD:updateHud")
+        if open then
+            TriggerServerEvent("V1N_InformationHUD:updateHud")
+        end
         Citizen.Wait(2500)
+    end
+end)
+--===================================--
+
+--==Commands==--
+RegisterCommand(cfg.command, function(source, args, rawCommand)
+    if open then
+        open = not open
+        SendNUIMessage({
+            type = "close"
+        })
+    else
+        TriggerServerEvent("V1N_InformationHUD:updateHud")
+        open = not open
     end
 end)
 --===================================--
