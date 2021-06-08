@@ -31,12 +31,13 @@ RegisterServerEvent("V1N_InformationHUD:updateHud")
 AddEventHandler("V1N_InformationHUD:updateHud", function()
     local source = source
     local user_id = vRP.getUserId({source})
+    local tmpTable = vRP.getUserTmpTable({user_id})
 
     local data = {}
     table.insert(data, {
         type = "update",
-        wallet = vRP.getMoney({user_id}), 
-        bank = vRP.getBankMoney({user_id}), 
+        wallet = tmpTable.wallet, 
+        bank = tmpTable.bank, 
         dirty_money = vRP.getInventoryItemAmount({user_id, "dirty_money"}),
         job = vRP.getUserGroupByType({user_id, "job"}),
         id = user_id
