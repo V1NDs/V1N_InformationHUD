@@ -30,7 +30,10 @@ dependencies {
 }
 
 -- What to run
-client_script 'client.lua'
+client_scripts {
+    'config.lua',
+    'client.lua'
+}
 server_script 'server.lua'
 
 -- HTML part
