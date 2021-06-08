@@ -33,6 +33,7 @@ dependencies {
 client_scripts {
     'lib/Tunnel.lua',
     'lib/Proxy.lua',
+    'config.lua',
     'client.lua'
 }
 
